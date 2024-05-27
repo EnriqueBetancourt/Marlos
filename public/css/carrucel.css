@@ -1,0 +1,9 @@
+.carousel-item {
+    margin-top: 20px;
+    height: 500px; /* Ajusta la altura según tus necesidades */
+  }
+  .carousel-item img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+  }
